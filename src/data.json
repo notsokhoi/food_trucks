@@ -13,58 +13,59 @@
       "location": "Address",
       "image": "url here",
       "count": 9,
-      "carts" : [
+      "carts": [
         {
-        "name": "Kind Coffee",
-        // "id": 1, might not need this right now //
-        "type": "Coffee and bagels",
-        "vegOptions": true,
-        "hours": {
-          "sunday": "11am - 9pm",
-          "monday": "11am - 9pm",
-          "tuesday": "11am - 9pm",
-          "wednesday": "11am - 9pm",
-          "thursday": "11am - 9pm",
-          "friday": "11am - 9pm",
-          "saturday": "11am - 9pm"
-              },
+          "name": "Kind Coffee",
+          // "id": 1, might not need this right now //
+          "type": "Coffee and bagels",
+          "vegOptions": true,
+          "hours": {
+            "sunday": "11am - 9pm",
+            "monday": "11am - 9pm",
+            "tuesday": "11am - 9pm",
+            "wednesday": "11am - 9pm",
+            "thursday": "11am - 9pm",
+            "friday": "11am - 9pm",
+            "saturday": "11am - 9pm"
+          },
           "image": "url",
           "menu": "url",
           "topFive": {
-                "1": "Drip Coffee",
-                "2": "Latte",
-                "3": "Bagel with cream cheese",
-                "4": "Bagel with lox",
-                "5": "Dirty Chai"
-              } 
-            },
-            {
-        "name": "Brazilian House",
-        "type": "Brazilian",
-        "vegOptions": true,
-        "hours": {
-          "sunday": "11am - 9pm",
-          "monday": "11am - 9pm",
-          "tuesday": "11am - 9pm",
-          "wednesday": "11am - 9pm",
-          "thursday": "11am - 9pm",
-          "friday": "11am - 9pm",
-          "saturday": "11am - 9pm"
-              },
+            "1": "Drip Coffee",
+            "2": "Latte",
+            "3": "Bagel with cream cheese",
+            "4": "Bagel with lox",
+            "5": "Dirty Chai"
+          }
+        },
+        {
+          "name": "Brazilian House",
+          "type": "Brazilian",
+          "vegOptions": true,
+          "hours": {
+            "sunday": "11am - 9pm",
+            "monday": "11am - 9pm",
+            "tuesday": "11am - 9pm",
+            "wednesday": "11am - 9pm",
+            "thursday": "11am - 9pm",
+            "friday": "11am - 9pm",
+            "saturday": "11am - 9pm"
+          },
           "image": "url",
           "menu": "url",
           "topFive": {
-                "1": "Coxinha",
-                "2": "Moqueca",
-                "3": "Feijoada",
-                "4": "Tropeiro",
-                "5": "Petisco"
-              } 
-            }
-          ]
+            "1": "Coxinha",
+            "2": "Moqueca",
+            "3": "Feijoada",
+            "4": "Tropeiro",
+            "5": "Petisco"
+          }
+        }
+      ]
     },
     {
-      "name": "Carts of Belmont",
+      //this whole pod is FPO
+      "name": "TBD",
       "tables": {
         "uncovered": 3,
         "covered": 7
@@ -75,10 +76,13 @@
       "bikeParking": "none",
       "location": "Address",
       "image": "url here",
-      "count": 9, //Can this be calculated?
-      "carts" : {
-        "Kind Coffee" {
+      "count": 9,
+      "carts": [
+        {
+          "name": "Kind Coffee",
+          // "id": 1, might not need this right now //
           "type": "Coffee and bagels",
+          "vegOptions": true,
           "hours": {
             "sunday": "11am - 9pm",
             "monday": "11am - 9pm",
@@ -87,20 +91,41 @@
             "thursday": "11am - 9pm",
             "friday": "11am - 9pm",
             "saturday": "11am - 9pm"
-            },
-            "image": "url",
-            "menu": "url",
-            "topFive": {
-                  "1": "Drip Coffee",
-                  "2": "Latte",
-                  "3": "Bagel with cream cheese",
-                  "4": "Bagel with lox",
-                  "5": "Dirty Chai"
-            } 
+          },
+          "image": "url",
+          "menu": "url",
+          "topFive": {
+            "1": "Drip Coffee",
+            "2": "Latte",
+            "3": "Bagel with cream cheese",
+            "4": "Bagel with lox",
+            "5": "Dirty Chai"
           }
-        
+        },
+        {
+          "name": "Brazilian House",
+          "type": "Brazilian",
+          "vegOptions": true,
+          "hours": {
+            "sunday": "11am - 9pm",
+            "monday": "11am - 9pm",
+            "tuesday": "11am - 9pm",
+            "wednesday": "11am - 9pm",
+            "thursday": "11am - 9pm",
+            "friday": "11am - 9pm",
+            "saturday": "11am - 9pm"
+          },
+          "image": "url",
+          "menu": "url",
+          "topFive": {
+            "1": "Coxinha",
+            "2": "Moqueca",
+            "3": "Feijoada",
+            "4": "Tropeiro",
+            "5": "Petisco"
+          }
         }
-    },
-
+      ]
+    }
   ]
 }
