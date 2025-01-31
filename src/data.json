@@ -1,17 +1,17 @@
 {
   "pods": [
     {
-      "name": "Carts of Belmont",
+      "name": "The Bite on Belmont",
       "tables": {
         "uncovered": 3,
         "covered": 7
       },
-      "restrooms": "Porta Potty",
-      "beverages": "beer cart",
-      "parking": "street",
-      "bikeParking": "none",
-      "location": "Address",
-      "image": "url here",
+      "restrooms": "Portable",
+      "beverages": "Beer cart",
+      "parking": "Street",
+      "bikeParking": "None",
+      "location": "4255 SE Belmont St Portland, OR 97215",
+      "image": "src/images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -20,16 +20,16 @@
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
-            "sunday": "11am - 9pm",
-            "monday": "11am - 9pm",
-            "tuesday": "11am - 9pm",
-            "wednesday": "11am - 9pm",
-            "thursday": "11am - 9pm",
-            "friday": "11am - 9pm",
-            "saturday": "11am - 9pm"
+            "sunday": "8am - 2pm",
+            "monday": "Closed",
+            "tuesday": "8am - 2pm",
+            "wednesday": "8am - 2pm",
+            "thursday": "8am - 2pm",
+            "friday": "8am - 2pm",
+            "saturday": "8am - 2pm"
           },
-          "image": "url",
-          "menu": "url",
+          "image": "src/images/cart-kindCoffee.jpg",
+          "menu": "src/images/cart-kindCoffee-menu.jpg",
           "topFive": {
             "1": "Drip Coffee",
             "2": "Latte",
@@ -51,8 +51,8 @@
             "friday": "11am - 9pm",
             "saturday": "11am - 9pm"
           },
-          "image": "url",
-          "menu": "url",
+          "image": "src/images/cart-brazilianHouse.jpg",
+          "menu": "src/images/cart-brazilianHouse-Menu.jpg",
           "topFive": {
             "1": "Coxinha",
             "2": "Moqueca",
@@ -65,15 +65,15 @@
     },
     {
       //this whole pod is FPO
-      "name": "TBD",
+      "name": "Hinterland",
       "tables": {
-        "uncovered": 3,
-        "covered": 7
+        "uncovered": 0,
+        "covered": 24
       },
-      "restrooms": "Porta Potty",
-      "beverages": "beer cart",
+      "restrooms": "2 indoor restrooms",
+      "beverages": "Full indoor bar",
       "parking": "street",
-      "bikeParking": "none",
+      "bikeParking": "yes",
       "location": "Address",
       "image": "url here",
       "count": 9,
@@ -84,16 +84,16 @@
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
-            "sunday": "11am - 9pm",
-            "monday": "11am - 9pm",
-            "tuesday": "11am - 9pm",
-            "wednesday": "11am - 9pm",
-            "thursday": "11am - 9pm",
-            "friday": "11am - 9pm",
-            "saturday": "11am - 9pm"
+            "sunday": "8am - 2pm",
+            "monday": "Closed",
+            "tuesday": "8am - 2pm",
+            "wednesday": "8am - 2pm",
+            "thursday": "8am - 2pm",
+            "friday": "8am - 2pm",
+            "saturday": "8am - 2pm"
           },
-          "image": "url",
-          "menu": "url",
+          "image": "src/images/cart-kindCoffee.jpg",
+          "menu": "src/images/cart-kindCoffee-menu.jpg",
           "topFive": {
             "1": "Drip Coffee",
             "2": "Latte",
@@ -115,8 +115,8 @@
             "friday": "11am - 9pm",
             "saturday": "11am - 9pm"
           },
-          "image": "url",
-          "menu": "url",
+          "image": "src/images/cart-brazilianHouse.jpg",
+          "menu": "src/images/cart-brazilianHouse-Menu.jpg",
           "topFive": {
             "1": "Coxinha",
             "2": "Moqueca",
