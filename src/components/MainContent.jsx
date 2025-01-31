@@ -1,5 +1,5 @@
 import Pod from './Pod'
-import Cart from './CartItem'
+import CartItem from './CartItem'
 import data from '../data/data.json'
 
 const MainContent = () => {
@@ -9,6 +9,7 @@ const MainContent = () => {
         {data.pods.map((pod) => (
           <Pod name={pod.name} />
         ))}
+        {/* add if statement into the above ul as a bonus, but make sure you add the carts first */}
       </ul>
       {/* <ul className="content">
         {data.pods.map((cartItem) => (
