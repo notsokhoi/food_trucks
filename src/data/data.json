@@ -16,7 +16,6 @@
       "carts": [
         {
           "name": "Kind Coffee",
-          // "id": 1, might not need this right now //
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
@@ -64,7 +63,6 @@
       ]
     },
     {
-      //this whole pod is FPO
       "name": "Hinterland",
       "tables": {
         "uncovered": 0,
@@ -80,7 +78,6 @@
       "carts": [
         {
           "name": "Kind Coffee",
-          // "id": 1, might not need this right now //
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
