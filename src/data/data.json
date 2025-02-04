@@ -1,7 +1,7 @@
 {
   "pods": [
     {
-      "name": "The Bite on Belmont",
+      "podName": "The Bite on Belmont",
       "tables": {
         "uncovered": 3,
         "covered": 7
@@ -15,7 +15,7 @@
       "count": 9,
       "carts": [
         {
-          "name": "Kind Coffee",
+          "cartName": "Kind Coffee",
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
@@ -38,7 +38,7 @@
           }
         },
         {
-          "name": "Brazilian House",
+          "cartName": "Brazilian House",
           "type": "Brazilian",
           "vegOptions": true,
           "hours": {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Hinterland",
+      "podName": "Hinterland",
       "tables": {
         "uncovered": 0,
         "covered": 24
@@ -77,7 +77,7 @@
       "count": 9,
       "carts": [
         {
-          "name": "Kind Coffee",
+          "cartName": "Kind Coffee",
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
@@ -100,7 +100,7 @@
           }
         },
         {
-          "name": "Brazilian House",
+          "cartName": "Brazilian House",
           "type": "Brazilian",
           "vegOptions": true,
           "hours": {
