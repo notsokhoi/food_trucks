@@ -59,6 +59,7 @@ a.hover {
 
 .pod {
   display: flex;
+  flex-direction: column;
   height: 300px;
   width: 90%;
   border-radius: 8px;

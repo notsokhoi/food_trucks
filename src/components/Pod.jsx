@@ -6,11 +6,12 @@ const Pod = (props) => {
       <h1>{props.podName}</h1>
 
       {/* the below class cartName i'm trying to add to CartItem.jsx. hide the code to see at least the list of pods show up*/}
-      <ul className="cartList">
+      {/* <ul className="cartList">
         {props.cartNames.map((cart) => (
           <CartItem cartName={cartName} />
         ))}
-      </ul>
+      </ul> */}
+      <ul>CartItems should go here</ul>
     </div>
   )
 }
