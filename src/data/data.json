@@ -12,7 +12,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "./src/images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
