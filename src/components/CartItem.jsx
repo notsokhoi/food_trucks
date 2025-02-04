@@ -1,5 +1,5 @@
 const CartItem = () => {
-  return <div className="cart-item">{cartName}</div>
+  return <li className="cart-item">{cartName}</li>
 }
 
 export default CartItem
