@@ -60,6 +60,18 @@
             "4": "Tropeiro",
             "5": "Petisco"
           }
+        },
+        {
+          "cartName": "La Birra Republic"
+        },
+        {
+          "cartName": "Swarma Station"
+        },
+        {
+          "cartName": "Toune's Noodles"
+        },
+        {
+          "cartName": "Fried Egg I'm in Love"
         }
       ]
     },
@@ -78,6 +90,12 @@
       "image": "images/pod-hinterland.jpeg",
       "count": 9,
       "carts": [
+        {
+          "cartName": "La Birra Republic"
+        },
+        {
+          "cartName": "Swarma Station"
+        },
         {
           "cartName": "Kind Coffee",
           "type": "Coffee and bagels",
@@ -163,6 +181,18 @@
             "4": "Item",
             "5": "Item"
           }
+        },
+        {
+          "cartName": "La Birra Republic"
+        },
+        {
+          "cartName": "Swarma Station"
+        },
+        {
+          "cartName": "Toune's Noodles"
+        },
+        {
+          "cartName": "Fried Egg I'm in Love"
         }
       ]
     },
@@ -182,7 +212,7 @@
       "count": 9,
       "carts": [
         {
-          "cartName": "Kind Coffee",
+          "cartName": "Gyro and Shawarma Grill",
           "type": "Coffee and bagels",
           "vegOptions": true,
           "hours": {
@@ -203,6 +233,18 @@
             "4": "Item",
             "5": "Item"
           }
+        },
+        {
+          "cartName": "La Birra Republic"
+        },
+        {
+          "cartName": "Swarma Station"
+        },
+        {
+          "cartName": "Toune's Noodles"
+        },
+        {
+          "cartName": "Fried Egg I'm in Love"
         }
       ]
     },

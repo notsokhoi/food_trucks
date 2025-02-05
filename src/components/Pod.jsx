@@ -7,16 +7,17 @@ const Pod = (props) => {
       {/* // <div className="pod">
     //   <div src={props.podImage}></div> */}
       <h1>{props.podName}</h1>
-      <h3>Address: {props.location}</h3>
+      <h3>{props.location}</h3>
       <h3>
         Tables: {props.tables.covered} covered / {props.tables.uncovered}{' '}
         uncovered
       </h3>
-      <ul className="cartList">
+      <h3 class="cartHeading">Carts</h3>
+      <div className="cartList">
         {props.carts.map((cart) => (
           <CartItem cartName={cart.cartName} />
         ))}
-      </ul>
+      </div>
       {/* <ul>CartItems should go here</ul> */}
     </div>
   )
