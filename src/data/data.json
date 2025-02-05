@@ -12,7 +12,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "./src/images/pod-biteOnBelmont.jpg",
+      "image": "./images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -28,8 +28,8 @@
             "friday": "8am - 2pm",
             "saturday": "8am - 2pm"
           },
-          "image": "src/images/cart-kindCoffee.jpg",
-          "menu": "src/images/cart-kindCoffee-menu.jpg",
+          "image": "images/cart-kindCoffee.jpg",
+          "menu": "images/cart-kindCoffee-menu.jpg",
           "topFive": {
             "1": "Drip Coffee",
             "2": "Latte",
@@ -51,8 +51,8 @@
             "friday": "11am - 9pm",
             "saturday": "11am - 9pm"
           },
-          "image": "src/images/cart-brazilianHouse.jpg",
-          "menu": "src/images/cart-brazilianHouse-Menu.jpg",
+          "image": "images/cart-brazilianHouse.jpg",
+          "menu": "images/cart-brazilianHouse-Menu.jpg",
           "topFive": {
             "1": "Coxinha",
             "2": "Moqueca",
@@ -75,7 +75,7 @@
       "parking": "street",
       "bikeParking": "yes",
       "location": "2216 SE 50th Ave, Portland, OR 97215",
-      "image": "src/images/pod-hinterland.jpeg",
+      "image": "images/pod-hinterland.jpeg",
       "count": 9,
       "carts": [
         {
@@ -91,8 +91,8 @@
             "friday": "8am - 2pm",
             "saturday": "8am - 2pm"
           },
-          "image": "src/images/cart-kindCoffee.jpg",
-          "menu": "src/images/cart-kindCoffee-menu.jpg",
+          "image": "images/cart-kindCoffee.jpg",
+          "menu": "images/cart-kindCoffee-menu.jpg",
           "topFive": {
             "1": "Drip Coffee",
             "2": "Latte",
@@ -114,8 +114,8 @@
             "friday": "11am - 9pm",
             "saturday": "11am - 9pm"
           },
-          "image": "src/images/cart-brazilianHouse.jpg",
-          "menu": "src/images/cart-brazilianHouse-Menu.jpg",
+          "image": "images/cart-brazilianHouse.jpg",
+          "menu": "images/cart-brazilianHouse-Menu.jpg",
           "topFive": {
             "1": "Coxinha",
             "2": "Moqueca",
@@ -138,7 +138,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "1080 SE Madison St, Portland, OR 97214",
-      "image": "src/images/pod-asylum.jpg",
+      "image": "images/pod-asylum.jpg",
       "count": 9,
       "carts": [
         {
@@ -178,7 +178,7 @@
       "parking": "Medium Sized Lot",
       "bikeParking": "Yes",
       "location": "7238 SE Foster Rd, Portland, OR 97206",
-      "image": "src/images/pod-Mercado.jpg",
+      "image": "images/pod-Mercado.jpg",
       "count": 9,
       "carts": [
         {
@@ -218,7 +218,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "1015 SE Stark St, Portland, OR 97214",
-      "image": "src/images/pod-lilAmerica.jpg",
+      "image": "images/pod-lilAmerica.jpg",
       "count": 9,
       "carts": [
         {
@@ -257,7 +257,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "8220 NE Davis St, Portland, OR 97220",
-      "image": "src/images/pod-yard-montavilla.jpg",
+      "image": "images/pod-yard-montavilla.jpg",
       "count": 9,
       "carts": [
         {
@@ -296,7 +296,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "5029 SE Division St, Portland, OR 97206",
-      "image": "src/images/pod-benbears.jpg",
+      "image": "images/pod-benbears.jpg",
       "count": 9,
       "carts": [
         {
@@ -335,7 +335,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "3560 SE Powell Blvd Portland, OR 97202",
-      "image": "src/images/pod-stJohns.jpg",
+      "image": "images/pod-stJohns.jpg",
       "count": 9,
       "carts": [
         {
@@ -374,7 +374,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "431 SW Harvey Milk St, Portland, OR 97204",
-      "image": "src/images/pod-midtownBeerGarden.jpg",
+      "image": "images/pod-midtownBeerGarden.jpg",
       "count": 27,
       "carts": [
         {
@@ -413,7 +413,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "701 SW 6th Ave, Portland, OR 97204",
-      "image": "src/images/pod-pioneersquare.jpg",
+      "image": "images/pod-pioneersquare.jpg",
       "count": 9,
       "carts": [
         {
@@ -452,7 +452,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4th Ave And Sw College St Portland, OR 97201",
-      "image": "src/images/pod-PSU.webp",
+      "image": "images/pod-PSU.webp",
       "count": 9,
       "carts": [
         {
@@ -491,7 +491,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "SW 3rd Ave &, SW Harvey Milk St, Portland, OR 97204",
-      "image": "src/images/pod-3rdAve.jpg",
+      "image": "images/pod-3rdAve.jpg",
       "count": 9,
       "carts": [
         {
@@ -530,7 +530,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "770 W Burnside St, Portland, OR 97209",
-      "image": "src/images/pod-cart-blocks.jpg",
+      "image": "images/pod-cart-blocks.jpg",
       "count": 9,
       "carts": [
         {
@@ -569,7 +569,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "321 SW 2nd Ave, Portland, OR 97204",
-      "image": "src/images/pod-2nd-Ave.jpg",
+      "image": "images/pod-2nd-Ave.jpg",
       "count": 9,
       "carts": [
         {
@@ -608,7 +608,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "1825 N Williams Ave, Portland, OR 97227",
-      "image": "src/images/pod-CartSide.jpg",
+      "image": "images/pod-CartSide.jpg",
       "count": 9,
       "carts": [
         {
@@ -647,7 +647,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "1331 N Killingsworth St. Portland, OR 97217",
-      "image": "src/images/pod-killingsworth.jpg",
+      "image": "images/pod-killingsworth.jpg",
       "count": 9,
       "carts": [
         {
@@ -686,7 +686,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -725,7 +725,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -764,7 +764,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -803,7 +803,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -842,7 +842,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -881,7 +881,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -920,7 +920,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -959,7 +959,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -998,7 +998,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -1037,7 +1037,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -1076,7 +1076,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {
@@ -1115,7 +1115,7 @@
       "parking": "Street",
       "bikeParking": "None",
       "location": "4255 SE Belmont St Portland, OR 97215",
-      "image": "src/images/pod-biteOnBelmont.jpg",
+      "image": "images/pod-biteOnBelmont.jpg",
       "count": 9,
       "carts": [
         {

@@ -1,5 +1,5 @@
-const CartItem = () => {
-  return <li className="cart-item">{cartName}</li>
+const CartItem = (props) => {
+  return <li className="cart-item">{props.cartName}</li>
 }
 
 export default CartItem

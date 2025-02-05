@@ -9,16 +9,14 @@ const Pod = (props) => {
       <h1>{props.podName}</h1>
       <h3>Address: {props.location}</h3>
       <h3>
-        Tables: {props.coveredTables} covered / {props.uncoveredTables}
+        Tables: {props.tables.covered} covered / {props.tables.uncovered}{' '}
         uncovered
       </h3>
-
-      {/* the below class cartName i'm trying to add to CartItem.jsx. hide the code to see at least the list of pods show up*/}
-      {/* <ul className="cartList">
-        {props.cartName.map((cartName) => (
-          <CartItem cartName={cartName} />
+      <ul className="cartList">
+        {props.carts.map((cart) => (
+          <CartItem cartName={cart.cartName} />
         ))}
-      </ul> */}
+      </ul>
       {/* <ul>CartItems should go here</ul> */}
     </div>
   )

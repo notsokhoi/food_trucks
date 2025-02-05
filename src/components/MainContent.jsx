@@ -10,9 +10,8 @@ const MainContent = (props) => {
             podName={pod.podName}
             podImage={pod.image}
             location={pod.location}
-            coveredTables={pod.tables.coveredTables}
-            uncoveredTables={pod.tables.uncoveredTables}
-
+            tables={pod.tables}
+            carts={pod.carts}
             // cartName={pod.carts.map((cart) => cart.cartName)}
             // I tried adding cartName here it here and it didn't work
           />
